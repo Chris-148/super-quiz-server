@@ -1,40 +1,1540 @@
 {
-	"question": [
-		{
-			"id": 1,
-			"type": "text-question",
-			"topic": "Science",
-			"question": "Who discovered the law of Gravity ?",
-			"good_answer": "Isaac Newton",
-			"other_answer": [ "Galilée",  "Albert Einstein", "Robert Hooke"],
-			"difficulty" : "Easy",
-			"img": null,
-			"audio": null,
-			"userId": "vincent"
-		},
-		{
-			"id": 2,
-			"type": "text-question",
-			"topic": "History",
-			"question": "Who was the first American in space ?",
-			"good_answer": "Alan Shepard",
-			"other_answer": [ "Neil Armstrong",  "Yuri Gagarin", "Joshua George"],
-			"difficulty" : "Easy",
-			"img": null,
-			"audio": null,
-			"userId": "vincent"
-		},
-		{
-			"id": 3,
-			"type": "text-question",
-			"topic": "Geek-culture",
-			"question": "In The Lord of the Rings, who is the father of the dwarf Gimli?",
-			"good_answer": "Glòin",
-			"other_answer": [ "Thorin",  "Bombur", "Eric"],
-			"difficulty" : "Easy",
-			"img": null,
-			"audio": null,
-			"userId": "vincent"
-		}
-	]
-}
+    "question": [
+      {
+        "id": 1,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      },
+      {
+        "id": 2,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      },
+      {
+        "id": 3,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      },
+      {
+        "id": "f6865aa8-6a46-4667-a8a5-7bd54a900d38",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Hera is god of...",
+        "good_answer": "Marriage",
+        "other_answer": [
+          "Agriculture",
+          "Sea",
+          "War"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "538b7155-3af2-4f8d-b2c2-9215e89dae84",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "In Greek Mythology, who killed Achilles?",
+        "good_answer": "Paris",
+        "other_answer": [
+          "Hector",
+          "Helen",
+          "Pericles"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "aabd3796-9234-4c6d-9b91-aa6ed7b635db",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What mythology did the god &quot;Apollo&quot; come from?",
+        "good_answer": "Greek and Roman",
+        "other_answer": [
+          "Roman and Spanish",
+          "Greek and Chinese",
+          "Greek, Roman and Norse"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "3871ffca-c00b-4b4a-920d-220ca32f220f",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+        "good_answer": "Eris",
+        "other_answer": [
+          "Charon",
+          "Ceres",
+          "Dysnomia"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "040f2df2-ca11-4b35-96ef-87d3c3a92efd",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+        "good_answer": "Bull",
+        "other_answer": [
+          "Pig",
+          "Ox",
+          "Horse"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "3450edd6-39e8-47e5-bc67-88ecb5aa9396",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+        "good_answer": "A Horse",
+        "other_answer": [
+          "A Dragon",
+          "A Tiger",
+          "A Lion"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "7273607a-a0e9-4d58-b6f5-d6d55bbcee0c",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+        "good_answer": "Enkidu",
+        "other_answer": [
+          "Enki",
+          "Enlil",
+          "Enkimdu"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "1b30b196-76e7-4650-ba15-11f658386ead",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who was the Roman god of fire?",
+        "good_answer": "Vulcan",
+        "other_answer": [
+          "Apollo",
+          "Jupiter",
+          "Mercury"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "c0950184-af34-4586-ab38-fd221a63dbbf",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who is the God Loki&#039;s son? ",
+        "good_answer": "Fenrir ",
+        "other_answer": [
+          "Odin",
+          "Hel",
+          "Sigyn"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "962f3ab5-d3cf-4aad-a334-ba78a53ee3a3",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+        "good_answer": "Orpheus",
+        "other_answer": [
+          "Hercules",
+          "Perseus",
+          "Daedalus"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "3fcc3767-9f32-44dc-ac51-eeba54694f65",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "A minotaur is half human half what?",
+        "good_answer": "Bull",
+        "other_answer": [
+          "Cow",
+          "Horse",
+          "Eagle"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "38fa7865-03a5-4a85-8b5b-a3b2efdabdd4",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What is the name of the Greek god of peaceful deaths?",
+        "good_answer": "Thanatos",
+        "other_answer": [
+          "Tartarus",
+          "Hades",
+          "Moros"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "3c240b76-5c79-4240-9f04-3f3e189a2baa",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+        "good_answer": "Set",
+        "other_answer": [
+          "Horus",
+          "Ra",
+          "Anhur"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "1eb71595-b185-4bfd-9f6b-0e6cb5d936e1",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who was the only god from Greece who did not get a name change in Rome?",
+        "good_answer": "Apollo",
+        "other_answer": [
+          "Demeter",
+          "Zeus",
+          "Athena"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "43136a67-55db-4fa2-af47-1297780cb979",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+        "good_answer": "Participating in cannibalism.",
+        "other_answer": [
+          "Excessive mutilation of animal corpses.",
+          "Performing a ritual involving murder.",
+          "Drinking the blood of many slain animals."
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "544d1f08-241c-427b-85f0-f2865579d722",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+        "good_answer": "New Zealand",
+        "other_answer": [
+          "Vanuatu",
+          "Fiji",
+          "Hawaii"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "db95b0de-ab2b-4db5-a8bc-dd749cf60f87",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Hel was the daughter of which Norse Mythological figure?",
+        "good_answer": "Loki",
+        "other_answer": [
+          "Thor",
+          "Odin",
+          "Balder"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "707ffbc1-6dc0-4cfc-a3ba-3ab23f253474",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who was the King of Gods in Ancient Greek mythology?",
+        "good_answer": "Zeus",
+        "other_answer": [
+          "Apollo",
+          "Hermes",
+          "Poseidon"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "40ff44b1-b3ad-4d1f-ad32-ae9bc2f3da0a",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of the following is NOT a god in Norse Mythology.",
+        "good_answer": "Jens",
+        "other_answer": [
+          "Loki",
+          "Tyr",
+          "Snotra"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "c35bdac1-392d-4d0d-8576-e6469209b4d9",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+        "good_answer": "Centaur",
+        "other_answer": [
+          "Minotaur",
+          "Pegasus",
+          "Gorgon"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "a20fb68b-7412-4fb7-9235-cfce7fd4b2df",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What is the name of the first human being in Norse mythology?",
+        "good_answer": "Ask",
+        "other_answer": [
+          "Asmund",
+          "Ake",
+          "Asger"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "83c5336b-b38c-4415-9550-c16c866d8527",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+        "good_answer": "Victory",
+        "other_answer": [
+          "Courage",
+          "Strength",
+          "Honor"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "4c8c1790-ffee-4670-873c-d5ef7fafeb21",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+        "good_answer": "Spider",
+        "other_answer": [
+          "Wild dog",
+          "Monkey",
+          "Crocodile"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "921ad538-b510-4e8e-b40d-96a18e907f06",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who did Hippomenes defeat in a footrace?",
+        "good_answer": "Atalanta",
+        "other_answer": [
+          "Peleus",
+          "Theseus",
+          "Jason"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "b0886fc9-0a0c-4836-a320-1adb2d9732b5",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who is the god of war in Polynesian mythology?",
+        "good_answer": "&#039;Oro",
+        "other_answer": [
+          "Hina",
+          "Kohara",
+          "Māui"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "54b7e6f8-0e81-46e6-beb2-f0a85cd4e2bb",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which Norse God has a horse named Sleipnir?",
+        "good_answer": "Odin",
+        "other_answer": [
+          "Thor",
+          "Frigg",
+          "Balder"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "6581dde3-9c76-42f6-bf67-7ec99297650b",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of the following is not one of the Greek Fates?",
+        "good_answer": "Narcissus",
+        "other_answer": [
+          "Clotho",
+          "Atropos",
+          "Lachesis"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "c33904e6-89e1-44a6-bd2e-bc5910ea0769",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+        "good_answer": "Cucumbers",
+        "other_answer": [
+          "Kabocha",
+          "Nasu",
+          "Soba"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "24a3e2c8-1ac0-4773-a7a4-f1598cb68b1a",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+        "good_answer": "Apollo",
+        "other_answer": [
+          "Aphrodite",
+          "Artemis",
+          "Athena"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "b73293cd-d4d1-425f-a180-adc122f9a281",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "The Norse god Odin has two pet crows named &quot;Huginn&quot; and &quot;Muninn&quot;.  What do their names mean?",
+        "good_answer": "Thought &amp; Memory",
+        "other_answer": [
+          "Power &amp; Peace",
+          "War &amp; Learning",
+          "Sleeping &amp; Waking"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "9f205d98-8520-4d8a-8330-49e2bb163af2",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+        "good_answer": "Athena",
+        "other_answer": [
+          "Ares",
+          "Artemis",
+          "Apollo"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "8dcb996a-23ec-42a2-81c9-934ab6e31d78",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "In Greek mythology, who is the god of wine?",
+        "good_answer": "Dionysus",
+        "other_answer": [
+          "Hephaestus",
+          "Demeter",
+          "Apollo"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "25961905-9b31-4378-ba2b-3a8804e95e3b",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "The ancient Roman god of war was commonly known as which of the following?",
+        "good_answer": "Mars",
+        "other_answer": [
+          "Jupiter",
+          "Juno",
+          "Ares"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "225a5641-b657-43a3-b695-4099436be395",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of the following is not true about the life of Tiresias?",
+        "good_answer": "Sailed with the Argonauts to find the golden fleece",
+        "other_answer": [
+          "Athena turned him into a woman, and then years later back into a man",
+          "Hera blinded him after he agreed with Zeus in an argument",
+          "Revealed to Oedipus that Oedipus had married his own mother"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "5d429e0a-656d-4557-8017-e47a193a7e96",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+        "good_answer": "Janus",
+        "other_answer": [
+          "Vulcan",
+          "Juno",
+          "Mars"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "900b8e32-a234-4d19-8e84-c8dad161d24d",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "How many heads does Cerberus have?",
+        "good_answer": "3",
+        "other_answer": [
+          "2",
+          "1",
+          "5"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "6c2c3ac4-4590-4f8b-928f-945a315ed1f2",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+        "good_answer": "Tree",
+        "other_answer": [
+          "Mountain",
+          "Temple",
+          "Castle"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "e05d0509-1b0b-4d1a-9307-ec8df459015e",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+        "good_answer": "Jason",
+        "other_answer": [
+          "Castor",
+          "Daedalus",
+          "Odysseus"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "dcca19ec-52f4-40f6-8ab8-e6ff3256a9ab",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "Neptune&#039;s greek name was...",
+        "good_answer": "Poseidon",
+        "other_answer": [
+          "Ares",
+          "Zeus",
+          "Apollo"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "f032bbc9-b747-4403-aa98-4157f9229e04",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+        "good_answer": "Harpies",
+        "other_answer": [
+          "Mermaids",
+          "Nymph",
+          "Lilith"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "ff546c0e-bdba-47eb-b444-3a3b7ea801bd",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "In Greek Mythology, who was the daughter of King Minos?",
+        "good_answer": "Ariadne",
+        "other_answer": [
+          "Athena",
+          "Ariel",
+          "Alana"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "4d29c9d7-1b5a-45aa-bc57-6f8c603c8013",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What is the name of the Greek god of blacksmiths?",
+        "good_answer": "Hephaestus",
+        "other_answer": [
+          "Dyntos",
+          "Vulcan",
+          "Artagatus"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "fcc44885-c602-4588-aa21-2b82a1bd18a9",
+        "type": "Text Question",
+        "topic": "Mythology",
+        "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+        "good_answer": "Cursed to roll a boulder up a hill for eternity.",
+        "other_answer": [
+          "Tied to a boulder for eternity, being pecked by birds.",
+          "Standing in a lake filled with water he could not drink.",
+          "To fell a tree that regenerated after every axe swing."
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "c31bef9a-9ea4-4817-8122-8f229d6cc346",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does GHz stand for?",
+        "good_answer": "Gigahertz",
+        "other_answer": [
+          "Gigahotz",
+          "Gigahetz",
+          "Gigahatz"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "62da4f6b-dd7c-485e-b190-6973f01eedf4",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+        "good_answer": "Game Maker",
+        "other_answer": [
+          "Stencyl",
+          "Construct",
+          "Torque 2D"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "e93f8558-d83f-4529-abc3-2e790b4833ab",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+        "good_answer": "Santa Clara",
+        "other_answer": [
+          "Palo Alto",
+          "Cupertino",
+          "Mountain View"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "92d353e9-2f9e-4dc0-b09b-b2ca990f6adf",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "good_answer": "Inkscape",
+        "other_answer": [
+          "Paint.NET",
+          "GIMP",
+          "Adobe Photoshop"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "0cb57f1c-d656-43b5-8234-439195ac962b",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What programming language was GitHub written in?",
+        "good_answer": "Ruby",
+        "other_answer": [
+          "JavaScript",
+          "Python",
+          "Lua"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "94810dbd-fff9-4d68-8f06-1ef3247d3521",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How many kilobytes in one gigabyte (in decimal)?",
+        "good_answer": "1000000",
+        "other_answer": [
+          "1024",
+          "1000",
+          "1048576"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "4b6d9536-1399-446f-bd0d-4f25d9107488",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Whistler was the codename of this Microsoft Operating System.",
+        "good_answer": "Windows XP",
+        "other_answer": [
+          "Windows 2000",
+          "Windows 7",
+          "Windows 95"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "edd08728-a60f-425b-ba39-469f80526023",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "good_answer": "Command Line Interface",
+        "other_answer": [
+          "Common Language Input",
+          "Control Line Interface",
+          "Common Language Interface"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "8a01aab0-7691-427e-acb6-b3b7fdb64f01",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+        "good_answer": "Micronesia",
+        "other_answer": [
+          "Fiji",
+          "Tuvalu",
+          "Marshall Islands"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "b766ffe0-4b48-47ef-a6de-74db3296a94b",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does &quot;LCD&quot; stand for?",
+        "good_answer": "Liquid Crystal Display",
+        "other_answer": [
+          "Language Control Design",
+          "Last Common Difference",
+          "Long Continuous Design"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "f63ecf2c-f4e0-4f3c-84b1-e815a1d89f78",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+        "good_answer": "Taiwan",
+        "other_answer": [
+          "United States",
+          "Germany",
+          "China (People&#039;s Republic of)"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "7237d04e-36d3-4ac9-8e1e-665f85a7958e",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How many Hz does the video standard PAL support?",
+        "good_answer": "50",
+        "other_answer": [
+          "59",
+          "60",
+          "25"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "f3e0dd13-4bd4-4c03-93e3-f8ec773c836d",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "good_answer": "Non-impact printer",
+        "other_answer": [
+          "Impact printer",
+          "Daisywheel printer",
+          "Dot matrix printer"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "9a80c148-0829-48eb-96d8-c2888ab80ea1",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+        "good_answer": "JavaScript",
+        "other_answer": [
+          "C#",
+          "Python",
+          "PHP"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "cb170567-a55f-4d82-b827-d9be683b0d67",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does RAID stand for?",
+        "good_answer": "Redundant Array of Independent Disks",
+        "other_answer": [
+          "Rapid Access for Indexed Devices",
+          "Range of Applications with Identical Designs",
+          "Randomized Abstract Identification Description"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "5c656eae-98c0-43ac-bfba-d55e3f0cae6d",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+        "good_answer": "Shamir",
+        "other_answer": [
+          "Secure",
+          "Schottky",
+          "Stable"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "4d31f31e-9840-4a48-a55c-3f5645334510",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does the &quot;MP&quot; stand for in MP3?",
+        "good_answer": "Moving Picture",
+        "other_answer": [
+          "Music Player",
+          "Multi Pass",
+          "Micro Point"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "ff44a3f5-a916-4fc1-9c81-02f80da7dda4",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "good_answer": "Active Directory",
+        "other_answer": [
+          "Alternative Drive",
+          "Automated Database",
+          "Active Department"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "291f3dc2-ce81-4b85-aeeb-7fca1f8aef5c",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of these is not a layer in the OSI model for data communications?",
+        "good_answer": "Connection Layer",
+        "other_answer": [
+          "Application Layer",
+          "Transport Layer",
+          "Physical Layer"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "036c45f3-6206-4426-81dc-7587ca7aa7db",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+        "good_answer": "Radia Perlman",
+        "other_answer": [
+          "Paul Vixie",
+          "Vint Cerf",
+          "Michael Roberts"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "20dbf909-6530-41ce-ab33-145d87cdca19",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What is known as &quot;the brain&quot; of the Computer?",
+        "good_answer": "Central Processing Unit",
+        "other_answer": [
+          "Motherboard",
+          "Graphics Processing Unit",
+          "Keyboard"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "54a90ce1-ac0f-4960-bdfe-f90bed2d75de",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The acronym &quot;RIP&quot; stands for which of these?",
+        "good_answer": "Routing Information Protocol",
+        "other_answer": [
+          "Runtime Instance Processes",
+          "Regular Interval Processes",
+          "Routine Inspection Protocol"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "c9dc41ce-e3b4-408b-95d2-3bb327f26a9e",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The C programming language was created by this American computer scientist. ",
+        "good_answer": "Dennis Ritchie",
+        "other_answer": [
+          "Tim Berners Lee",
+          "al-Khwārizmī",
+          "Willis Ware"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "55dbf2d4-02c1-43ce-ac39-e78a63c5bbea",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The name of technology company HP stands for what?",
+        "good_answer": "Hewlett-Packard",
+        "other_answer": [
+          "Howard Packmann",
+          "Husker-Pollosk",
+          "Hellman-Pohl"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "68150274-fc62-4ad0-a182-48485a643d32",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "good_answer": "Secret sharing scheme",
+        "other_answer": [
+          "Hashing algorithm",
+          "Asymmetric encryption",
+          "Stream cipher"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "d14fc712-4bf2-4ae8-8bc3-9e174e46e3d2",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does the term MIME stand for, in regards to computing?",
+        "good_answer": "Multipurpose Internet Mail Extensions",
+        "other_answer": [
+          "Mail Internet Mail Exchange",
+          "Multipurpose Interleave Mail Exchange",
+          "Mail Interleave Method Exchange"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "0ccb1d29-053c-4e7b-a416-018b46fc3907",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Approximately how many Apple I personal computers were created?",
+        "good_answer": "200",
+        "other_answer": [
+          "100",
+          "500",
+          "1000"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "f235ce7e-2034-4069-9fe2-a93702fa604b",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The teapot often seen in many 3D modeling applications is called what?",
+        "good_answer": "Utah Teapot",
+        "other_answer": [
+          "Pixar Teapot",
+          "3D Teapot",
+          "Tennessee Teapot"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "3e4fe01f-1b24-40d3-a03d-4a43f2512820",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of the following is the oldest of these computers by release date?",
+        "good_answer": "TRS-80",
+        "other_answer": [
+          "Commodore 64",
+          "ZX Spectrum",
+          "Apple 3"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "2154c634-3c29-41c4-a257-368128affc73",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How many values can a single byte represent?",
+        "good_answer": "256",
+        "other_answer": [
+          "8",
+          "1",
+          "1024"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "18d0d65e-5739-4091-8486-c255e4e17efd",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What does CPU stand for?",
+        "good_answer": "Central Processing Unit",
+        "other_answer": [
+          "Central Process Unit",
+          "Computer Personal Unit",
+          "Central Processor Unit"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "a2d1f006-fed2-46e3-a925-0e7bd31141cb",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "good_answer": "Apple",
+        "other_answer": [
+          "Microsoft",
+          "Atari",
+          "Commodore"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "988f57f6-2451-4075-8141-0bcc051b61e7",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of these programming languages is a low-level language?",
+        "good_answer": "Assembly",
+        "other_answer": [
+          "Python",
+          "C#",
+          "Pascal"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "eee3d5b3-bd7c-4cc5-abdb-0a2891d5b461",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What was the first Android version specifically optimized for tablets?",
+        "good_answer": "Honeycomb",
+        "other_answer": [
+          "Eclair",
+          "Froyo",
+          "Marshmellow"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "e02ec119-70f4-47a4-b0e5-5c1a6e8d1210",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "good_answer": "Jonathan Ive",
+        "other_answer": [
+          "Steve Jobs",
+          "Ronald Wayne",
+          "Steve Wozniak"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "5e868a43-1217-4e56-b094-bbefdd64afc1",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "The Harvard architecture for micro-controllers added which additional bus?",
+        "good_answer": "Instruction",
+        "other_answer": [
+          "Address",
+          "Data",
+          "Control"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "0fc15608-0482-4cfe-a117-ab2a12e14507",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How many bytes are in a single Kibibyte?",
+        "good_answer": "1024",
+        "other_answer": [
+          "2400",
+          "1000",
+          "1240"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "e7f2e309-d248-4cf8-9220-064e73227b2d",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What language does Node.js use?",
+        "good_answer": "JavaScript",
+        "other_answer": [
+          "Java",
+          "Java Source",
+          "Joomla Source Code"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "9be40200-c321-4ec3-a751-c2746e1183d2",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What is the name of the default theme that is installed with Windows XP?",
+        "good_answer": "Luna",
+        "other_answer": [
+          "Neptune",
+          "Whistler",
+          "Bliss"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "04f1d101-6724-4f9f-9dfa-1976ec778d54",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+        "good_answer": "Apple",
+        "other_answer": [
+          "IBM",
+          "Microsoft",
+          "Google"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "afa86074-8dd8-4d63-8e84-9e3e4044f6da",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "good_answer": "10",
+        "other_answer": [
+          "12",
+          "8",
+          "4"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "a0e65301-f6de-44c2-aeea-f6ee742df449",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of the following computer components can be built using only NAND gates?",
+        "good_answer": "ALU",
+        "other_answer": [
+          "CPU",
+          "RAM",
+          "Register"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "b40641f6-9f5a-41b6-9b5d-0aebec53eb81",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+        "good_answer": "Cheetah",
+        "other_answer": [
+          "Puma",
+          "Tiger",
+          "Leopard"
+        ],
+        "difficulty": "hard",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "36ba3346-d5b5-4e70-bfd6-f227b2be40e9",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "On which day did the World Wide Web go online?",
+        "good_answer": "December 20, 1990",
+        "other_answer": [
+          "December 17, 1996",
+          "November 12, 1990",
+          "November 24, 1995"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "2dcf3a82-480b-4a67-8fa3-e21d78f08041",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "How long is an IPv6 address?",
+        "good_answer": "128 bits",
+        "other_answer": [
+          "32 bits",
+          "64 bits",
+          "128 bytes"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "10e911f4-6da8-4bbc-8d94-f0e223345c9e",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "good_answer": "Clipper Chip",
+        "other_answer": [
+          "Enigma Machine",
+          "Skipjack",
+          "Nautilus"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "19713439-333a-48f6-a59b-d386a323c1b5",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "In computing, what does MIDI stand for?",
+        "good_answer": "Musical Instrument Digital Interface",
+        "other_answer": [
+          "Musical Interface of Digital Instruments",
+          "Modular Interface of Digital Instruments",
+          "Musical Instrument Data Interface"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "da9cb128-9715-4e7c-a108-caa816909a28",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "In programming, what do you call functions with the same name but different implementations?",
+        "good_answer": "Overloading",
+        "other_answer": [
+          "Overriding",
+          "Abstracting",
+          "Inheriting"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "ab4ca18c-4dc3-4c71-9d31-38a6fa928933",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "In any programming language, what is the most common way to iterate through an array?",
+        "good_answer": "&#039;For&#039; loops",
+        "other_answer": [
+          "&#039;If&#039; Statements",
+          "&#039;Do-while&#039; loops",
+          "&#039;While&#039; loops"
+        ],
+        "difficulty": "easy",
+        "img": null,
+        "audio": null,
+        "userId": null
+      },
+      {
+        "id": "524b13d9-9cc0-46e3-bf40-882f44188b6f",
+        "type": "Text Question",
+        "topic": "Science: Computers",
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "good_answer": "FM-7",
+        "other_answer": [
+          "PC-9801",
+          "Xmillennium ",
+          "MSX"
+        ],
+        "difficulty": "medium",
+        "img": null,
+        "audio": null,
+        "userId": null
+      }
+    ]
+  }
