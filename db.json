@@ -1,4 +1,13 @@
-{
+{	"quiz": [
+	{
+		"id":1,
+		"QuestionIdArray":[1,2,3],
+		"userID":"Vincent"
+	}
+],
+
+	"score": [],
+	
     "question": [
       {
         "id": 1,
