@@ -1,8 +1,60 @@
 {	"quiz": [
 	{
 		"id":1,
-		"QuestionIdArray":[1,2,3],
-		"userID":"Vincent"
+		"QuestionArray":[
+      {
+        "id": 1,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      },
+      {
+        "id": 2,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      },
+      {
+        "id": 3,
+        "type": "text-question",
+        "topic": "Science",
+        "question": "Who discovered the law of Gravity",
+        "good_answer": "Isaac Newton",
+        "other_answer": [
+          "Galilée",
+          "Albert Einstein",
+          "Robert Hooke"
+        ],
+        "difficulty": "Easy",
+        "img": null,
+        "audio": null,
+        "userId": "vincent"
+      }
+    ],
+		"userId":"Vincent",
+    "scores": {
+      "Vincent": 20
+    }
 	}
 ],
 
