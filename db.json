@@ -165,7 +165,11 @@
           "userId": null
         }
       ],
-      "scores": [],
+      "scores": [
+        {
+          "Vincent": "250"
+        }
+      ],
       "topic": "Harry Potter",
       "difficulty": "",
       "nbrQuestions": 10
@@ -513,57 +517,186 @@
       "topic": "Harry Potter",
       "difficulty": "",
       "nbrQuestions": 10
+    },
+    {
+      "id": "55b74957-2f03-482d-9de9-f86726bff16f",
+      "userId": "Chris & Yoshiro",
+      "QuestionArray": [
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147661",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
+          "good_answer": "Misuse of Muggle Artefacts Office",
+          "other_answer": [
+            "Auror Office",
+            "Magical Law Enforcement",
+            "Department of Mysteries"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147664",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What spell does Hermione cast to repair Harry’s glasses?",
+          "good_answer": "Reparo",
+          "other_answer": [
+            "Alohomora",
+            "Lumos",
+            "Petrificus Totalus"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147659",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
+          "other_answer": [
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
+          ],
+          "difficulty": "medium",
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147658",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
+          "other_answer": [
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147657",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in this image?",
+          "good_answer": "Expecto Patronum",
+          "other_answer": [
+            "Avada Kedavra",
+            "Stupefy",
+            "Riddikulus"
+          ],
+          "difficulty": "medium",
+          "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147662",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What does the spell being casted in the audio do?",
+          "good_answer": "levitation charm that makes objects float",
+          "other_answer": [
+            "Disarming charm that causes the target to release what they are holding.",
+            "Stunning spell that temporarily incapacitates the target.",
+            "Unlocking charm used to open doors or windows"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1743065713/ulfvxm2iy43keqqjjjyy.mp3",
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147655",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of this house-elf?",
+          "good_answer": "Dobby",
+          "other_answer": [
+            "Kreacher",
+            "Winky",
+            "Hokey"
+          ],
+          "difficulty": "easy",
+          "img": "https://wallpapers.com/images/hd/dobby-chamber-of-secrets-fanart-poster-n3nwib417zokfyzu.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147663",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Bellatrix Lestrange",
+          "other_answer": [
+            "Narcissa Malfoy",
+            "Dolores Umbridge",
+            "Molly Weasley"
+          ],
+          "difficulty": "hard",
+          "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "d7e7fd60-bfdf-4850-b524-f7b1ad7999ba",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Who was the first character to be revealed as a member of the Order of the Phoenix in 'The Order of the Phoenix' book?",
+          "good_answer": "Mundungus Fletcher",
+          "other_answer": [
+            "Sirius Black",
+            "Remus Lupin",
+            "Mad-Eye Moody"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147660",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is Dumbledore’s full name?",
+          "good_answer": "Albus Percival Wulfric Brian Dumbledore",
+          "other_answer": [
+            "Albus Severus Dumbledore",
+            "Albus Gideon Dumbledore",
+            "Albus Merlin Dumbledore"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        }
+      ],
+      "scores": [
+        {
+          "Vincent & Chris": "160"
+        },
+        {
+          "Loser": "0"
+        }
+      ],
+      "topic": "Harry Potter",
+      "difficulty": "",
+      "nbrQuestions": 10
     }
   ],
   "question": [
-    {
-      "id": 1,
-      "type": "text-question",
-      "topic": "Science",
-      "question": "Who discovered the law of Gravity",
-      "good_answer": "Isaac Newton",
-      "other_answer": [
-        "Galilée",
-        "Albert Einstein",
-        "Robert Hooke"
-      ],
-      "difficulty": "Easy",
-      "img": null,
-      "audio": null,
-      "userId": "vincent"
-    },
-    {
-      "id": 2,
-      "type": "text-question",
-      "topic": "Science",
-      "question": "Who discovered the law of Gravity",
-      "good_answer": "Isaac Newton",
-      "other_answer": [
-        "Galilée",
-        "Albert Einstein",
-        "Robert Hooke"
-      ],
-      "difficulty": "Easy",
-      "img": null,
-      "audio": null,
-      "userId": "vincent"
-    },
-    {
-      "id": 3,
-      "type": "text-question",
-      "topic": "Science",
-      "question": "Who discovered the law of Gravity",
-      "good_answer": "Isaac Newton",
-      "other_answer": [
-        "Galilée",
-        "Albert Einstein",
-        "Robert Hooke"
-      ],
-      "difficulty": "Easy",
-      "img": null,
-      "audio": null,
-      "userId": "vincent"
-    },
     {
       "id": "f6865aa8-6a46-4667-a8a5-7bd54a900d38",
       "type": "Text Question",
@@ -573,7 +706,7 @@
       "other_answer": [
         "Agriculture",
         "Sea",
-        "War"
+        "Air"
       ],
       "difficulty": "medium",
       "img": null,
@@ -616,7 +749,7 @@
       "id": "3871ffca-c00b-4b4a-920d-220ca32f220f",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+      "question": "This Greek goddess`s name was chosen for the dwarf planet responsible for discord on Pluto`s classification amongst astronomers.",
       "good_answer": "Eris",
       "other_answer": [
         "Charon",
@@ -696,7 +829,7 @@
       "id": "c0950184-af34-4586-ab38-fd221a63dbbf",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "Who is the God Loki&#039;s son? ",
+      "question": "Who is the God Loki`s son? ",
       "good_answer": "Fenrir ",
       "other_answer": [
         "Odin",
@@ -904,7 +1037,7 @@
       "id": "83c5336b-b38c-4415-9550-c16c866d8527",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+      "question": "The Nike apparel and footwear brand takes it`s name from the Greek goddess of what?",
       "good_answer": "Victory",
       "other_answer": [
         "Courage",
@@ -953,7 +1086,7 @@
       "type": "Text Question",
       "topic": "Mythology",
       "question": "Who is the god of war in Polynesian mythology?",
-      "good_answer": "&#039;Oro",
+      "good_answer": "`Oro",
       "other_answer": [
         "Hina",
         "Kohara",
@@ -1112,7 +1245,7 @@
       "id": "5d429e0a-656d-4557-8017-e47a193a7e96",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+      "question": "Which of these Roman gods doesn`t have a counterpart in Greek mythology?",
       "good_answer": "Janus",
       "other_answer": [
         "Vulcan",
@@ -1176,7 +1309,7 @@
       "id": "dcca19ec-52f4-40f6-8ab8-e6ff3256a9ab",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "Neptune&#039;s greek name was...",
+      "question": "Neptune`s greek name was...",
       "good_answer": "Poseidon",
       "other_answer": [
         "Ares",
@@ -1192,7 +1325,7 @@
       "id": "f032bbc9-b747-4403-aa98-4157f9229e04",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+      "question": "What mytological creatures have women`s faces and vultures` bodies?",
       "good_answer": "Harpies",
       "other_answer": [
         "Mermaids",
@@ -1240,7 +1373,7 @@
       "id": "fcc44885-c602-4588-aa21-2b82a1bd18a9",
       "type": "Text Question",
       "topic": "Mythology",
-      "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+      "question": "What was the punishment for Sysiphus`s craftiness?",
       "good_answer": "Cursed to roll a boulder up a hill for eternity.",
       "other_answer": [
         "Tied to a boulder for eternity, being pecked by birds.",
@@ -1288,7 +1421,7 @@
       "id": "e93f8558-d83f-4529-abc3-2e790b4833ab",
       "type": "Text Question",
       "topic": "Science: Computers",
-      "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+      "question": "Nvidia`s headquarters are based in which Silicon Valley city?",
       "good_answer": "Santa Clara",
       "other_answer": [
         "Palo Alto",
@@ -1421,7 +1554,7 @@
       "other_answer": [
         "United States",
         "Germany",
-        "China (People&#039;s Republic of)"
+        "China (People`s Republic of)"
       ],
       "difficulty": "medium",
       "img": null,
@@ -1496,7 +1629,7 @@
       "id": "5c656eae-98c0-43ac-bfba-d55e3f0cae6d",
       "type": "Text Question",
       "topic": "Science: Computers",
-      "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+      "question": "What does the `S` in the RSA encryption algorithm stand for?",
       "good_answer": "Shamir",
       "other_answer": [
         "Secure",
@@ -1928,7 +2061,7 @@
       "id": "b40641f6-9f5a-41b6-9b5d-0aebec53eb81",
       "type": "Text Question",
       "topic": "Science: Computers",
-      "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "question": "Released in 2001, the first edition of Apple`s Mac OS X operating system (version 10.0) was given what animal code name?",
       "good_answer": "Cheetah",
       "other_answer": [
         "Puma",
@@ -2025,11 +2158,11 @@
       "type": "Text Question",
       "topic": "Science: Computers",
       "question": "In any programming language, what is the most common way to iterate through an array?",
-      "good_answer": "&#039;For&#039; loops",
+      "good_answer": "`For` loops",
       "other_answer": [
-        "&#039;If&#039; Statements",
-        "&#039;Do-while&#039; loops",
-        "&#039;While&#039; loops"
+        "`If` Statements",
+        "`Do-while` loops",
+        "`While` loops"
       ],
       "difficulty": "easy",
       "img": null,
@@ -2051,171 +2184,6 @@
       "img": null,
       "audio": null,
       "userId": null
-    },
-    {
-      "question": "What is this image?",
-      "topic": "",
-      "type": "Image Question",
-      "good_answer": "Le wagon",
-      "other_answer": [
-        "test",
-        "test",
-        "test"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 4
-    },
-    {
-      "question": "hi",
-      "topic": "",
-      "type": "Image Question",
-      "good_answer": "car",
-      "other_answer": [
-        "1",
-        "2",
-        "3"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 5
-    },
-    {
-      "question": "Is Vincent cool?",
-      "topic": "",
-      "type": "Image Question",
-      "good_answer": "Yes",
-      "other_answer": [
-        "no",
-        "no",
-        "no"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 6
-    },
-    {
-      "question": "test",
-      "topic": "",
-      "type": "Image Question",
-      "good_answer": "testtest",
-      "other_answer": [
-        "1",
-        "2",
-        "3"
-      ],
-      "difficulty": "easy",
-      "img": "http://res.cloudinary.com/dovwi3ybd/image/upload/v1742989465/o7gal4mhpye62ofk62uv.png",
-      "audio": "",
-      "id": 7
-    },
-    {
-      "question": "Which anime?",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "naruto",
-      "other_answer": [
-        "1",
-        "2",
-        "3"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 8
-    },
-    {
-      "question": "test",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "Naruto",
-      "other_answer": [
-        "1",
-        "3",
-        "4"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 9
-    },
-    {
-      "question": "test3",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "naruto",
-      "other_answer": [
-        "1",
-        "2",
-        "3"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 10
-    },
-    {
-      "question": "naruto",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "naruto",
-      "other_answer": [
-        "1",
-        "1",
-        "1"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 11
-    },
-    {
-      "question": "naruto",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "1",
-      "other_answer": [
-        "1",
-        "1",
-        "1"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 12
-    },
-    {
-      "question": "Hi, this is a question",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "1",
-      "other_answer": [
-        "2",
-        "2",
-        "2"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "",
-      "id": 13
-    },
-    {
-      "question": "Question test",
-      "topic": "",
-      "type": "Audio Question",
-      "good_answer": "1",
-      "other_answer": [
-        "1",
-        "1",
-        "1"
-      ],
-      "difficulty": "easy",
-      "img": "",
-      "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1742998095/nfgaf0vwzc6alcstsk99.mp3",
-      "id": 14
     },
     {
       "id": "7648dbe0-d48b-4920-a0af-569843147655",
