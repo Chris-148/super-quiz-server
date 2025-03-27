@@ -1,216 +1,67 @@
 {
   "quiz": [
     {
-      "quiz": [
-        {
-          "id": "7648dbe0-d48b-4920-a0af-569843147656",
-          "userId": "test",
-          "QuestionArray": [
-            {
-              "id": "1",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "What is the spell in the image called?",
-              "good_answer": "Imperius Curse",
-              "other_answer": [
-                "Cruciatus Curse",
-                "Avada Kedavra",
-                "Petrificus Totalus"
-              ],
-              "difficulty": "Medium",
-              "img": "https://api.potterdb.com/v1/spells/imperius-curse",
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "2",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "What is the name of this house-elf?",
-              "good_answer": "Dobby",
-              "other_answer": [
-                "Kreacher",
-                "Winky",
-                "Hokey"
-              ],
-              "difficulty": "Easy",
-              "img": "https://hp-api.onrender.com/images/dobby.jpg",
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "3",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "What spell is being cast in this image?",
-              "good_answer": "Expecto Patronum",
-              "other_answer": [
-                "Avada Kedavra",
-                "Stupefy",
-                "Riddikulus"
-              ],
-              "difficulty": "Medium",
-              "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "4",
-              "type": "text-question",
-              "topic": "Harry Potter",
-              "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
-              "good_answer": "Fluffy",
-              "other_answer": [
-                "Snuffles",
-                "Norbert",
-                "Padfoot"
-              ],
-              "difficulty": "Easy",
-              "img": null,
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "5",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "Which character is shown in this image?",
-              "good_answer": "Luna Lovegood",
-              "other_answer": [
-                "Cho Chang",
-                "Ginny Weasley",
-                "Fleur Delacour"
-              ],
-              "difficulty": "Medium",
-              "img": "https://hp-api.onrender.com/images/luna.jpg",
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "6",
-              "type": "text-question",
-              "topic": "Harry Potter",
-              "question": "What is Dumbledore’s full name?",
-              "good_answer": "Albus Percival Wulfric Brian Dumbledore",
-              "other_answer": [
-                "Albus Severus Dumbledore",
-                "Albus Gideon Dumbledore",
-                "Albus Merlin Dumbledore"
-              ],
-              "difficulty": "Hard",
-              "img": null,
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "7",
-              "type": "text-question",
-              "topic": "Harry Potter",
-              "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
-              "good_answer": "Misuse of Muggle Artefacts Office",
-              "other_answer": [
-                "Auror Office",
-                "Magical Law Enforcement",
-                "Department of Mysteries"
-              ],
-              "difficulty": "Medium",
-              "img": null,
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "8",
-              "type": "text-question",
-              "topic": "Harry Potter",
-              "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
-              "good_answer": "Fluffy",
-              "other_answer": [
-                "Snuffles",
-                "Norbert",
-                "Padfoot"
-              ],
-              "difficulty": "Easy",
-              "img": null,
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "9",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "Which character is shown in this image?",
-              "good_answer": "Luna Lovegood",
-              "other_answer": [
-                "Cho Chang",
-                "Ginny Weasley",
-                "Fleur Delacour"
-              ],
-              "difficulty": "Medium",
-              "img": "https://hp-api.onrender.com/images/luna.jpg",
-              "audio": null,
-              "userId": null
-            },
-            {
-              "id": "10",
-              "type": "image-question",
-              "topic": "Harry Potter",
-              "question": "Which character is shown in this image?",
-              "good_answer": "Bellatrix Lestrange",
-              "other_answer": [
-                "Narcissa Malfoy",
-                "Dolores Umbridge",
-                "Molly Weasley"
-              ],
-              "difficulty": "Hard",
-              "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
-              "audio": null,
-              "userId": null
-            }
-          ],
-          "scores": [
-            {
-              "": "0"
-            },
-            {
-              "Vincent": "30"
-            }
-          ],
-          "topic": "",
-          "difficulty": "",
-          "nbrQuestions": 10
-        }
-      ]
-    },
-    {
-      "id": "a84421af-97a2-46a9-8177-0e88cc106560",
+      "id": "752570f2-9c5c-4323-bcb9-45634df06a1b",
       "userId": "Chris",
       "QuestionArray": [
         {
-          "id": "55dbf2d4-02c1-43ce-ac39-e78a63c5bbea",
-          "type": "Text Question",
-          "topic": "Science: Computers",
-          "question": "The name of technology company HP stands for what?",
-          "good_answer": "Hewlett-Packard",
+          "id": "d1f2e0a3-48a1-477b-9f62-2b8f1f8fd0f6",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the spell in the image called?",
+          "good_answer": "Imperius Curse",
           "other_answer": [
-            "Howard Packmann",
-            "Husker-Pollosk",
-            "Hellman-Pohl"
+            "Cruciatus Curse",
+            "Avada Kedavra",
+            "Petrificus Totalus"
           ],
           "difficulty": "medium",
-          "img": null,
+          "img": "https://api.potterdb.com/v1/spells/imperius-curse",
           "audio": null,
           "userId": null
         },
         {
-          "id": "c35bdac1-392d-4d0d-8576-e6469209b4d9",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "Which of these mythological creatures is said to be half-man and half-horse?",
-          "good_answer": "Centaur",
+          "id": "fa43d1e2-520d-4e67-98d4-28e9fbb26c8a",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of this house-elf?",
+          "good_answer": "Dobby",
           "other_answer": [
-            "Minotaur",
-            "Pegasus",
-            "Gorgon"
+            "Kreacher",
+            "Winky",
+            "Hokey"
+          ],
+          "difficulty": "easy",
+          "img": "https://static.wikia.nocookie.net/harrypotter/images/f/f4/DobbyDH.jpg/revision/latest/scale-to-width-down/1300?cb=20161215060027",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "c7fe285d-df68-4de9-b22a-085032f5bc39",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in this image?",
+          "good_answer": "Expecto Patronum",
+          "other_answer": [
+            "Avada Kedavra",
+            "Stupefy",
+            "Riddikulus"
+          ],
+          "difficulty": "medium",
+          "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "831bca7a-f4e4-49e6-b756-4d74e8e473cf",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
+          "other_answer": [
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
           ],
           "difficulty": "easy",
           "img": null,
@@ -218,47 +69,31 @@
           "userId": null
         },
         {
-          "id": "962f3ab5-d3cf-4aad-a334-ba78a53ee3a3",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
-          "good_answer": "Orpheus",
+          "id": "4db4a977-2870-4f4b-bb57-720ebea7c6b9",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
           "other_answer": [
-            "Hercules",
-            "Perseus",
-            "Daedalus"
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
           ],
-          "difficulty": "easy",
-          "img": null,
+          "difficulty": "medium",
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
           "audio": null,
           "userId": null
         },
         {
-          "id": "707ffbc1-6dc0-4cfc-a3ba-3ab23f253474",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "Who was the King of Gods in Ancient Greek mythology?",
-          "good_answer": "Zeus",
+          "id": "9b8e19d0-370b-4e9e-9602-7f5cbd9f1ae1",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is Dumbledore’s full name?",
+          "good_answer": "Albus Percival Wulfric Brian Dumbledore",
           "other_answer": [
-            "Apollo",
-            "Hermes",
-            "Poseidon"
-          ],
-          "difficulty": "easy",
-          "img": null,
-          "audio": null,
-          "userId": null
-        },
-        {
-          "id": "6c2c3ac4-4590-4f8b-928f-945a315ed1f2",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
-          "good_answer": "Tree",
-          "other_answer": [
-            "Mountain",
-            "Temple",
-            "Castle"
+            "Albus Severus Dumbledore",
+            "Albus Gideon Dumbledore",
+            "Albus Merlin Dumbledore"
           ],
           "difficulty": "hard",
           "img": null,
@@ -266,15 +101,15 @@
           "userId": null
         },
         {
-          "id": "5d429e0a-656d-4557-8017-e47a193a7e96",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
-          "good_answer": "Janus",
+          "id": "a39d4266-9e1f-4567-b273-9d6b3b7eaf16",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
+          "good_answer": "Misuse of Muggle Artefacts Office",
           "other_answer": [
-            "Vulcan",
-            "Juno",
-            "Mars"
+            "Auror Office",
+            "Magical Law Enforcement",
+            "Department of Mysteries"
           ],
           "difficulty": "medium",
           "img": null,
@@ -282,47 +117,15 @@
           "userId": null
         },
         {
-          "id": "3fcc3767-9f32-44dc-ac51-eeba54694f65",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "A minotaur is half human half what?",
-          "good_answer": "Bull",
+          "id": "fbd2d7fa-2c91-4eb5-b5b9-9e318c2a5201",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
           "other_answer": [
-            "Cow",
-            "Horse",
-            "Eagle"
-          ],
-          "difficulty": "medium",
-          "img": null,
-          "audio": null,
-          "userId": null
-        },
-        {
-          "id": "538b7155-3af2-4f8d-b2c2-9215e89dae84",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "In Greek Mythology, who killed Achilles?",
-          "good_answer": "Paris",
-          "other_answer": [
-            "Hector",
-            "Helen",
-            "Pericles"
-          ],
-          "difficulty": "medium",
-          "img": null,
-          "audio": null,
-          "userId": null
-        },
-        {
-          "id": "900b8e32-a234-4d19-8e84-c8dad161d24d",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "How many heads does Cerberus have?",
-          "good_answer": "3",
-          "other_answer": [
-            "2",
-            "1",
-            "5"
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
           ],
           "difficulty": "easy",
           "img": null,
@@ -330,24 +133,384 @@
           "userId": null
         },
         {
-          "id": "f6865aa8-6a46-4667-a8a5-7bd54a900d38",
-          "type": "Text Question",
-          "topic": "Mythology",
-          "question": "Hera is god of...",
-          "good_answer": "Marriage",
+          "id": "ab62e24f-3805-4b60-a0da-cb99b13956b1",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
           "other_answer": [
-            "Agriculture",
-            "Sea",
-            "War"
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
           ],
           "difficulty": "medium",
-          "img": null,
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "d2c02e99-8a72-43ae-8c06-1f07563b72d3",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Bellatrix Lestrange",
+          "other_answer": [
+            "Narcissa Malfoy",
+            "Dolores Umbridge",
+            "Molly Weasley"
+          ],
+          "difficulty": "hard",
+          "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
           "audio": null,
           "userId": null
         }
       ],
       "scores": [],
-      "topic": "",
+      "topic": "Harry Potter",
+      "difficulty": "",
+      "nbrQuestions": 10
+    },
+    {
+      "id": "f393b527-5ab6-418d-b79b-e5508a10d140",
+      "userId": "Chris",
+      "QuestionArray": [
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147663",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Bellatrix Lestrange",
+          "other_answer": [
+            "Narcissa Malfoy",
+            "Dolores Umbridge",
+            "Molly Weasley"
+          ],
+          "difficulty": "hard",
+          "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147662",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in the audio, and what does it do?",
+          "good_answer": "Leviosa",
+          "other_answer": [
+            "Expelliarmus",
+            "Stupefy",
+            "Alohomora"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1743065713/ulfvxm2iy43keqqjjjyy.mp3",
+          "userId": null
+        },
+        {
+          "id": "d7e7fd60-bfdf-4850-b524-f7b1ad7999ba",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Who was the first character to be revealed as a member of the Order of the Phoenix in 'The Order of the Phoenix' book?",
+          "good_answer": "Mundungus Fletcher",
+          "other_answer": [
+            "Sirius Black",
+            "Remus Lupin",
+            "Mad-Eye Moody"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147655",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of this house-elf?",
+          "good_answer": "Dobby",
+          "other_answer": [
+            "Kreacher",
+            "Winky",
+            "Hokey"
+          ],
+          "difficulty": "easy",
+          "img": "https://wallpapers.com/images/hd/dobby-chamber-of-secrets-fanart-poster-n3nwib417zokfyzu.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147657",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in this image?",
+          "good_answer": "Expecto Patronum",
+          "other_answer": [
+            "Avada Kedavra",
+            "Stupefy",
+            "Riddikulus"
+          ],
+          "difficulty": "medium",
+          "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147661",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
+          "good_answer": "Misuse of Muggle Artefacts Office",
+          "other_answer": [
+            "Auror Office",
+            "Magical Law Enforcement",
+            "Department of Mysteries"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147664",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What spell does Hermione cast to repair Harry’s glasses?",
+          "good_answer": "Reparo",
+          "other_answer": [
+            "Alohomora",
+            "Lumos",
+            "Petrificus Totalus"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147658",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
+          "other_answer": [
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147660",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is Dumbledore’s full name?",
+          "good_answer": "Albus Percival Wulfric Brian Dumbledore",
+          "other_answer": [
+            "Albus Severus Dumbledore",
+            "Albus Gideon Dumbledore",
+            "Albus Merlin Dumbledore"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147659",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
+          "other_answer": [
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
+          ],
+          "difficulty": "medium",
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
+          "audio": null,
+          "userId": null
+        }
+      ],
+      "scores": [],
+      "topic": "Harry Potter",
+      "difficulty": "",
+      "nbrQuestions": 10
+    },
+    {
+      "id": "7bce90eb-2985-4fed-a486-9158706aebd7",
+      "userId": "Chris",
+      "QuestionArray": [
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147661",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
+          "good_answer": "Misuse of Muggle Artefacts Office",
+          "other_answer": [
+            "Auror Office",
+            "Magical Law Enforcement",
+            "Department of Mysteries"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147663",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Bellatrix Lestrange",
+          "other_answer": [
+            "Narcissa Malfoy",
+            "Dolores Umbridge",
+            "Molly Weasley"
+          ],
+          "difficulty": "hard",
+          "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147660",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is Dumbledore’s full name?",
+          "good_answer": "Albus Percival Wulfric Brian Dumbledore",
+          "other_answer": [
+            "Albus Severus Dumbledore",
+            "Albus Gideon Dumbledore",
+            "Albus Merlin Dumbledore"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147655",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of this house-elf?",
+          "good_answer": "Dobby",
+          "other_answer": [
+            "Kreacher",
+            "Winky",
+            "Hokey"
+          ],
+          "difficulty": "easy",
+          "img": "https://wallpapers.com/images/hd/dobby-chamber-of-secrets-fanart-poster-n3nwib417zokfyzu.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147664",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What spell does Hermione cast to repair Harry’s glasses?",
+          "good_answer": "Reparo",
+          "other_answer": [
+            "Alohomora",
+            "Lumos",
+            "Petrificus Totalus"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147657",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in this image?",
+          "good_answer": "Expecto Patronum",
+          "other_answer": [
+            "Avada Kedavra",
+            "Stupefy",
+            "Riddikulus"
+          ],
+          "difficulty": "medium",
+          "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147662",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What does the spell being casted in the audio do?",
+          "good_answer": "Leviosa",
+          "other_answer": [
+            "Disarming charm that causes the target to release what they are holding.",
+            "Stunning spell that temporarily incapacitates the target.",
+            "Unlocking charm used to open doors or windows"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1743065713/ulfvxm2iy43keqqjjjyy.mp3",
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147658",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
+          "other_answer": [
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "d7e7fd60-bfdf-4850-b524-f7b1ad7999ba",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Who was the first character to be revealed as a member of the Order of the Phoenix in 'The Order of the Phoenix' book?",
+          "good_answer": "Mundungus Fletcher",
+          "other_answer": [
+            "Sirius Black",
+            "Remus Lupin",
+            "Mad-Eye Moody"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147659",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
+          "other_answer": [
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
+          ],
+          "difficulty": "medium",
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
+          "audio": null,
+          "userId": null
+        }
+      ],
+      "scores": [
+        {
+          "Chris": "270"
+        }
+      ],
+      "topic": "Harry Potter",
       "difficulty": "",
       "nbrQuestions": 10
     }
@@ -2055,23 +2218,7 @@
       "id": 14
     },
     {
-      "id": "d1f2e0a3-48a1-477b-9f62-2b8f1f8fd0f6",
-      "type": "image-question",
-      "topic": "Harry Potter",
-      "question": "What is the spell in the image called?",
-      "good_answer": "Imperius Curse",
-      "other_answer": [
-        "Cruciatus Curse",
-        "Avada Kedavra",
-        "Petrificus Totalus"
-      ],
-      "difficulty": "Medium",
-      "img": "https://api.potterdb.com/v1/spells/imperius-curse",
-      "audio": null,
-      "userId": null
-    },
-    {
-      "id": "fa43d1e2-520d-4e67-98d4-28e9fbb26c8a",
+      "id": "7648dbe0-d48b-4920-a0af-569843147655",
       "type": "image-question",
       "topic": "Harry Potter",
       "question": "What is the name of this house-elf?",
@@ -2081,13 +2228,13 @@
         "Winky",
         "Hokey"
       ],
-      "difficulty": "Easy",
-      "img": "https://hp-api.onrender.com/images/dobby.jpg",
+      "difficulty": "easy",
+      "img": "https://wallpapers.com/images/hd/dobby-chamber-of-secrets-fanart-poster-n3nwib417zokfyzu.jpg",
       "audio": null,
       "userId": null
     },
     {
-      "id": "c7fe285d-df68-4de9-b22a-085032f5bc39",
+      "id": "7648dbe0-d48b-4920-a0af-569843147657",
       "type": "image-question",
       "topic": "Harry Potter",
       "question": "What spell is being cast in this image?",
@@ -2097,13 +2244,13 @@
         "Stupefy",
         "Riddikulus"
       ],
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
       "audio": null,
       "userId": null
     },
     {
-      "id": "831bca7a-f4e4-49e6-b756-4d74e8e473cf",
+      "id": "7648dbe0-d48b-4920-a0af-569843147658",
       "type": "text-question",
       "topic": "Harry Potter",
       "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
@@ -2113,13 +2260,13 @@
         "Norbert",
         "Padfoot"
       ],
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "img": null,
       "audio": null,
       "userId": null
     },
     {
-      "id": "4db4a977-2870-4f4b-bb57-720ebea7c6b9",
+      "id": "7648dbe0-d48b-4920-a0af-569843147659",
       "type": "image-question",
       "topic": "Harry Potter",
       "question": "Which character is shown in this image?",
@@ -2129,13 +2276,13 @@
         "Ginny Weasley",
         "Fleur Delacour"
       ],
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "img": "https://hp-api.onrender.com/images/luna.jpg",
       "audio": null,
       "userId": null
     },
     {
-      "id": "9b8e19d0-370b-4e9e-9602-7f5cbd9f1ae1",
+      "id": "7648dbe0-d48b-4920-a0af-569843147660",
       "type": "text-question",
       "topic": "Harry Potter",
       "question": "What is Dumbledore’s full name?",
@@ -2145,13 +2292,13 @@
         "Albus Gideon Dumbledore",
         "Albus Merlin Dumbledore"
       ],
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "img": null,
       "audio": null,
       "userId": null
     },
     {
-      "id": "a39d4266-9e1f-4567-b273-9d6b3b7eaf16",
+      "id": "7648dbe0-d48b-4920-a0af-569843147661",
       "type": "text-question",
       "topic": "Harry Potter",
       "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
@@ -2161,45 +2308,29 @@
         "Magical Law Enforcement",
         "Department of Mysteries"
       ],
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "img": null,
       "audio": null,
       "userId": null
     },
     {
-      "id": "fbd2d7fa-2c91-4eb5-b5b9-9e318c2a5201",
+      "id": "7648dbe0-d48b-4920-a0af-569843147662",
       "type": "text-question",
       "topic": "Harry Potter",
-      "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
-      "good_answer": "Fluffy",
+      "question": "What does the spell being casted in the audio do?",
+      "good_answer": "levitation charm that makes objects float",
       "other_answer": [
-        "Snuffles",
-        "Norbert",
-        "Padfoot"
+        "Disarming charm that causes the target to release what they are holding.",
+        "Stunning spell that temporarily incapacitates the target.",
+        "Unlocking charm used to open doors or windows"
       ],
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "img": null,
-      "audio": null,
+      "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1743065713/ulfvxm2iy43keqqjjjyy.mp3",
       "userId": null
     },
     {
-      "id": "ab62e24f-3805-4b60-a0da-cb99b13956b1",
-      "type": "image-question",
-      "topic": "Harry Potter",
-      "question": "Which character is shown in this image?",
-      "good_answer": "Luna Lovegood",
-      "other_answer": [
-        "Cho Chang",
-        "Ginny Weasley",
-        "Fleur Delacour"
-      ],
-      "difficulty": "Medium",
-      "img": "https://hp-api.onrender.com/images/luna.jpg",
-      "audio": null,
-      "userId": null
-    },
-    {
-      "id": "d2c02e99-8a72-43ae-8c06-1f07563b72d3",
+      "id": "7648dbe0-d48b-4920-a0af-569843147663",
       "type": "image-question",
       "topic": "Harry Potter",
       "question": "Which character is shown in this image?",
@@ -2209,8 +2340,40 @@
         "Dolores Umbridge",
         "Molly Weasley"
       ],
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
+      "audio": null,
+      "userId": null
+    },
+    {
+      "id": "7648dbe0-d48b-4920-a0af-569843147664",
+      "type": "text-question",
+      "topic": "Harry Potter",
+      "question": "What spell does Hermione cast to repair Harry’s glasses?",
+      "good_answer": "Reparo",
+      "other_answer": [
+        "Alohomora",
+        "Lumos",
+        "Petrificus Totalus"
+      ],
+      "difficulty": "easy",
+      "img": null,
+      "audio": null,
+      "userId": null
+    },
+    {
+      "id": "d7e7fd60-bfdf-4850-b524-f7b1ad7999ba",
+      "type": "text-question",
+      "topic": "Harry Potter",
+      "question": "Who was the first character to be revealed as a member of the Order of the Phoenix in 'The Order of the Phoenix' book?",
+      "good_answer": "Mundungus Fletcher",
+      "other_answer": [
+        "Sirius Black",
+        "Remus Lupin",
+        "Mad-Eye Moody"
+      ],
+      "difficulty": "hard",
+      "img": null,
       "audio": null,
       "userId": null
     }
