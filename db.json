@@ -1,5 +1,179 @@
 {
   "quiz": [
+    {
+      "id": "8e292bb5-eecb-4dd5-a45b-1c630b2f6cd7",
+      "userId": "Chris & Vincent",
+      "QuestionArray": [
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147655",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of this house-elf?",
+          "good_answer": "Dobby",
+          "other_answer": [
+            "Kreacher",
+            "Winky",
+            "Hokey"
+          ],
+          "difficulty": "easy",
+          "img": "https://wallpapers.com/images/hd/dobby-chamber-of-secrets-fanart-poster-n3nwib417zokfyzu.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147657",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "What spell is being cast in this image?",
+          "good_answer": "Expecto Patronum",
+          "other_answer": [
+            "Avada Kedavra",
+            "Stupefy",
+            "Riddikulus"
+          ],
+          "difficulty": "medium",
+          "img": "https://contentful.harrypotter.com/usf1vwtuqyxm/7DYkjLjqMRnSjEzsofjN0T/dbc5daa52fcaa57686da6b213357a8f0/WB-HP-F3-prisoner-of-azkaban-dementors-patronus-cast-web-landscape.jpg?q=75&fm=jpg&w=2560",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147661",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Which department in the Ministry of Magic did Arthur Weasley work for?",
+          "good_answer": "Misuse of Muggle Artefacts Office",
+          "other_answer": [
+            "Auror Office",
+            "Magical Law Enforcement",
+            "Department of Mysteries"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147660",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is Dumbledore’s full name?",
+          "good_answer": "Albus Percival Wulfric Brian Dumbledore",
+          "other_answer": [
+            "Albus Severus Dumbledore",
+            "Albus Gideon Dumbledore",
+            "Albus Merlin Dumbledore"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147659",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Luna Lovegood",
+          "other_answer": [
+            "Cho Chang",
+            "Ginny Weasley",
+            "Fleur Delacour"
+          ],
+          "difficulty": "medium",
+          "img": "https://hp-api.onrender.com/images/luna.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147658",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What is the name of the three-headed dog guarding the Philosopher’s Stone?",
+          "good_answer": "Fluffy",
+          "other_answer": [
+            "Snuffles",
+            "Norbert",
+            "Padfoot"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147664",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What spell does Hermione cast to repair Harry’s glasses?",
+          "good_answer": "Reparo",
+          "other_answer": [
+            "Alohomora",
+            "Lumos",
+            "Petrificus Totalus"
+          ],
+          "difficulty": "easy",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "d7e7fd60-bfdf-4850-b524-f7b1ad7999ba",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "Who was the first character to be revealed as a member of the Order of the Phoenix in 'The Order of the Phoenix' book?",
+          "good_answer": "Mundungus Fletcher",
+          "other_answer": [
+            "Sirius Black",
+            "Remus Lupin",
+            "Mad-Eye Moody"
+          ],
+          "difficulty": "hard",
+          "img": null,
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147663",
+          "type": "image-question",
+          "topic": "Harry Potter",
+          "question": "Which character is shown in this image?",
+          "good_answer": "Bellatrix Lestrange",
+          "other_answer": [
+            "Narcissa Malfoy",
+            "Dolores Umbridge",
+            "Molly Weasley"
+          ],
+          "difficulty": "hard",
+          "img": "https://hp-api.onrender.com/images/bellatrix.jpg",
+          "audio": null,
+          "userId": null
+        },
+        {
+          "id": "7648dbe0-d48b-4920-a0af-569843147662",
+          "type": "text-question",
+          "topic": "Harry Potter",
+          "question": "What does the spell being casted in the audio do?",
+          "good_answer": "levitation charm that makes objects float",
+          "other_answer": [
+            "Disarming charm that causes the target to release what they are holding.",
+            "Stunning spell that temporarily incapacitates the target.",
+            "Unlocking charm used to open doors or windows"
+          ],
+          "difficulty": "medium",
+          "img": null,
+          "audio": "http://res.cloudinary.com/dovwi3ybd/video/upload/v1743065713/ulfvxm2iy43keqqjjjyy.mp3",
+          "userId": null
+        }
+      ],
+      "scores": [
+        {
+          "Vincent & Chris": "220"
+        }
+      ],
+      "topic": "Harry Potter",
+      "difficulty": "",
+      "nbrQuestions": 10
+    }
   ],
   "question": [
     {
